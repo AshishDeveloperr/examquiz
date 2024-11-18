@@ -6,5 +6,5 @@
 6. time limit quiz
 7. no time limit quiz
 8. mock tests(in nta frontend)
-9. duo fast finger first
+9. duo, trio and quad fast finger first
 10. questions according to chapter quiz
